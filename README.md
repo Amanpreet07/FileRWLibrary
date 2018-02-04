@@ -1,4 +1,4 @@
-# TextLibrary
+# FileRWLibrary
 **Version 1.0.0**
 
 Java library to work on files. It can be used to work on **Text files** or you can define any **Custom format**(*can be done easily if you write and read using some self-defined format*).

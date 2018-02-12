@@ -19,12 +19,12 @@ Java library to work on files. It can be used to work on **Text files** or you c
 ---
 
 ## Usage guide
-Shift to wiki tab.
+Refer to Wiki tab for usage guide and methods list.
 
 ---
 
 ## Current issues
-None. However, the overwrite() method can be optimised for better response time.
+None. However, the overwrite() method can be optimised for better response time using KMP algo for search.
 
 ---
 
